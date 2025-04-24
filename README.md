@@ -36,10 +36,10 @@ Welcome to my GitHub! I'm a passionate learner, community enthusiast, and tech e
 
 ## 🧑‍💻 Let’s Connect!
 
-- 🌐 [Portfolio Website](https://meenachisundaresan.github.io)
-- 🐦 [Twitter](https://twitter.com/meenachi_codes)
-- 💼 [LinkedIn](https://www.linkedin.com/in/meenachisundaresan/)
-- 📬 Reach me at: meenachisundaresan@gmail.com
+- 🌐 [Portfolio Website](https://jms-luck.me/portfolio)
+- ✍️ [Medium](https://medium.com/@meenachisundaresan24)
+- 💻 [Dev.to](https://dev.to/jms-luck)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jms-luck/)
 
 ---
 
