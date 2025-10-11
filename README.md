@@ -17,7 +17,6 @@ Welcome to my GitHub! I'm a passionate learner, community enthusiast, and tech e
 ## 🌐 My Community Activities
 
 - 🧑‍🏫 Conducted multiple workshops, hackathons, and technical sessions under MLSC, NSDC, and AWS communities.
-- 🌟 GitHub Campus Expert Program participant – collaborating with global tech leaders.
 - 📣 Campus Ambassador at Elearnmarkets by StockEdge – mentoring peers on fintech & markets.
 - 🏆 Winner of **Azure AI Innovation Challenge 2024** for `VirtualHealthAI`, a chatbot powered by Azure services.
 - 💬 Speaker at college fests and webinars on AI, Cloud, and Git.
