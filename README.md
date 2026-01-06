@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate learner, community enthusiast, and tech e
 
 ## 🚀 About Me
 
-- 🎓 Final-year AI & DS student with a knack for solving real-world problems through tech.
+- 🎓 Pre Final-year AI & DS student with a knack for solving real-world problems through tech.
 - 💡 Currently a **Beta Microsoft Learn Student Ambassador (MLSA)** – actively empowering students and bridging the gap between academia and industry.
 - 🌱 Constantly exploring Machine Learning, Cloud Computing, and Full Stack Development.
 - 🧠 Deep interest in AI for social good, agri-tech, and cyber security.
